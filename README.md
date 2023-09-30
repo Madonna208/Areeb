@@ -12,7 +12,7 @@ Before running the tests, ensure you have the following installed:
 
 1. Clone this repository to your local machine:
    ```shell
-   git clone https://github.com/Madonna208/Areeb.git
+   git clone https://github.com/Madonna208/SaucedemoAutomation-BDD.git
    
 2- You can change the filled data from the feature file
 
